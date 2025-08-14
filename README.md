@@ -22,3 +22,55 @@ PetPal is a React Native mobile application designed to simplify the pet adoptio
 
 ## 📂 Project Structure
 
+<img width="233" height="669" alt="image" src="https://github.com/user-attachments/assets/ea774d6b-e869-4381-a35a-46ab6af58ff0" />
+
+## 🚀 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/petpal.git
+   cd petpal
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the app using Expo:**
+   ```bash
+   npx expo start
+   ```
+
+---
+
+## 🧪 Testing
+
+Run all unit tests:
+
+```bash
+npx jest
+```
+
+---
+
+## 📸 Screenshots
+
+| Home Screen | Pet Profile | Favorites | Pets Nearby| Settings| 
+|-------------|-------------|-----------|-----------|-----------|
+|<img width="250" alt="Home Screen" src="https://github.com/user-attachments/assets/a2ca6033-3ba2-4ed1-bcb3-431f4470a191" />|  <img width="250" alt="Pet Profile" src="https://github.com/user-attachments/assets/5ab640ac-66fc-4655-b598-bcc9ab764a4a" />|<img width="250" alt="Favorites" src="https://github.com/user-attachments/assets/04330f81-6f3a-4881-a39c-a99fe348a9d9" /> |<img width="250" alt="Add Pet" src="https://github.com/user-attachments/assets/eeb12009-6e89-4ba0-8885-fd73b50a3ad5" /> |<img width="250" alt="Settings" src="https://github.com/user-attachments/assets/867df699-4067-4049-aebe-6651aa80e2a9" />|
+
+
+
+---
+
+## 🎨 Design Process
+
+The app's UI and UX were developed through:
+
+- **Wireframing** – Initial low-fidelity sketches to define the layout and flow.
+- **Mid-Fidelity Prototypes** – Created grayscale prototypes to refine navigation and placement.
+- **User Feedback** – Gathered feedback through Google Forms surveys and informal testing sessions.
+- **Iteration** – Updated designs based on feedback to improve usability and clarity.
+
+
