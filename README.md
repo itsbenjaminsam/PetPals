@@ -1,6 +1,6 @@
-# PetPal – Mobile Pet Adoption App 🐾
+# PetPals – Mobile Pet Adoption App 🐾
 
-PetPal is a React Native mobile application designed to simplify the pet adoption process by connecting potential adopters with pets in need. The app provides an intuitive interface for browsing, filtering, and saving favorite pets, as well as adding new pet listings.
+PetPals is a React Native mobile application designed to simplify the pet adoption process by connecting potential adopters with pets in need. The app provides an intuitive interface for browsing, filtering, and saving favorite pets, as well as adding new pet listings.
 
 ## 📱 Features
 
