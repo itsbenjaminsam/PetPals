@@ -28,8 +28,8 @@ PetPal is a React Native mobile application designed to simplify the pet adoptio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/petpal.git
-   cd petpal
+   git clone https://github.com/itsbenjaminsam/petpals.git
+   cd petpals
    ```
 
 2. **Install dependencies:**
